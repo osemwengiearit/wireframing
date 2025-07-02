@@ -131,3 +131,16 @@ Some popular wireframing tools include:
 6.  **Industry Standard:** Figma has become an industry standard for UI/UX design, making it a valuable skill to acquire for front-end developers.
 
 For these reasons, Figma is an excellent choice for designing wireframes and beyond, providing a robust platform for structuring your digital products effectively.
+
+---
+
+## Benefits of Wireframing in Software Development
+
+- \*\*Clarifies ideas and concepts: this clears ambiguity and misunderstandings
+- \*\*Faciliate Communication: allows for effective dialogue between technical and non technical stakeholders
+- \*\*Identifies usability issues: establishes user relationships and activities
+- \*\*Saves Time and Resources: prevents significant modifications in advance stages
+- \*\*Provides a Clear layout and structure: provides a visual for assessment
+- \*\*Enables easy modifications: easy techniques to capture changes
+- \*\*Guides the design process: serves as the foundation for future designs and development
+- \*\*Focuses on functionality and user experience: allows for better understanding of user expectations and experience
