@@ -136,11 +136,18 @@ For these reasons, Figma is an excellent choice for designing wireframes and bey
 
 ## Benefits of Wireframing in Software Development
 
-- \*\*Clarifies ideas and concepts: this clears ambiguity and misunderstandings
-- \*\*Faciliate Communication: allows for effective dialogue between technical and non technical stakeholders
-- \*\*Identifies usability issues: establishes user relationships and activities
-- \*\*Saves Time and Resources: prevents significant modifications in advance stages
-- \*\*Provides a Clear layout and structure: provides a visual for assessment
-- \*\*Enables easy modifications: easy techniques to capture changes
-- \*\*Guides the design process: serves as the foundation for future designs and development
-- \*\*Focuses on functionality and user experience: allows for better understanding of user expectations and experience
+- Clarifies ideas and concepts: this clears ambiguity and misunderstandings
+- Faciliate Communication: allows for effective dialogue between technical and non technical stakeholders
+- Identifies usability issues: establishes user relationships and activities
+- Saves Time and Resources: prevents significant modifications in advance stages
+- Provides a Clear layout and structure: provides a visual for assessment
+- Enables easy modifications: easy techniques to capture changes
+- Guides the design process: serves as the foundation for future designs and development
+- Focuses on functionality and user experience: allows for better understanding of user expectations and experience
+
+## Wireframe in Practice
+
+- As part of the design process for MediTech Hub, our team crafted initial low-fidelity wireframes for the core doctor appointment booking flow. We meticulously laid out the steps from searching for a doctor, viewing their profile, to selecting an available slot and confirming the booking.
+- Our initial design for the individual doctor's profile page aimed to be comprehensive, displaying a wide array of information including credentials, specializations, patient reviews, and various service offerings. The "Book Appointment" call-to-action was present but integrated amongst these details.
+- For the appointment availability section, the wireframes initially showed a full monthly calendar view, with small visual indicators for available slots, intending to give users maximum choice at a glance.
+- Wireframes provide the visual mockup of the project capturing the key elements that will enhance the user experience.
