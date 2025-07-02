@@ -96,3 +96,38 @@ Wireframes can vary significantly in their level of detail and polish, often ref
   - **Developer Handoff:** Provides clear specifications to developers, reducing ambiguity.
   - **Final Stakeholder Review:** Used for detailed reviews with stakeholders who may struggle to visualize from low-fidelity versions.
   - **Benefits:** Provides a clearer vision of the final product, reduces misinterpretations during development.
+
+## Wireframing Tools
+
+A variety of software tools are available to assist designers and developers in creating wireframes, ranging from simple digital whiteboards to dedicated UI/UX design suites. The choice of tool often depends on the required fidelity, collaboration needs, and integration with other design processes.
+
+Some popular wireframing tools include:
+
+- **Balsamiq:** Known for its hand-drawn, sketch-like aesthetic, ideal for low-fidelity wireframes.
+- **Sketch:** A popular macOS-exclusive vector graphics editor, widely used for UI design.
+- **Adobe XD:** Part of the Adobe Creative Cloud, offering a comprehensive suite for UI/UX design and prototyping.
+- **Miro / Lucidchart:** Online collaborative whiteboards that can be used for basic wireframing and flowcharts.
+
+### Recommended Tool: Figma
+
+**Figma** stands out as a highly recommended and widely adopted tool for wireframing, prototyping, and full-fidelity UI design. It's a powerful, cloud-based design platform that fosters real-time collaboration, making it exceptionally useful for individual designers and teams alike.
+
+#### Overview of Figma's Features for Wireframing:
+
+- **Vector Editing Capabilities:** Figma is a vector-based tool, allowing for scalable and precise shape creation necessary for defining layout structures.
+- **Frames (Artboards):** Facilitates the creation of multiple screens and flows, essential for mapping out user journeys.
+- **Components & Variants:** Enables the creation of reusable UI elements (like buttons, input fields, navigation bars). This is incredibly efficient for consistent wireframing, especially when dealing with repetitive elements.
+- **Auto Layout:** A powerful feature that helps create responsive designs by automatically adjusting spacing and resizing elements within frames, crucial for testing layouts across different screen sizes.
+- **Prototyping Mode:** Allows designers to link frames and create basic interactive flows, simulating user clicks and navigation paths even at the wireframing stage.
+- **Plugins:** A rich ecosystem of plugins extends Figma's functionality for various tasks, including content generation, accessibility checks, and more.
+
+#### Why Figma is Useful for Wireframing:
+
+1.  **Real-Time Collaboration:** As a cloud-based tool, multiple team members can work on the same wireframe simultaneously, seeing changes in real-time. This significantly speeds up feedback loops and aligns perfectly with collaborative methodologies.
+2.  **Versatility Across Fidelity Levels:** Figma can seamlessly transition from low-fidelity wireframes (using simple shapes and text) to high-fidelity mockups and even interactive prototypes within the same file. This "all-in-one" capability reduces the need to switch tools.
+3.  **Accessibility:** Being entirely web-based, Figma works on any operating system (Windows, macOS, Linux, ChromeOS) directly in a browser, making it highly accessible.
+4.  **Component Reusability:** The ability to create and manage components ensures consistency across all wireframes and allows for rapid iteration and modification of elements globally.
+5.  **Efficiency and Speed:** Features like Auto Layout and powerful keyboard shortcuts enable rapid wireframe creation and adjustments, making the design process highly efficient.
+6.  **Industry Standard:** Figma has become an industry standard for UI/UX design, making it a valuable skill to acquire for front-end developers.
+
+For these reasons, Figma is an excellent choice for designing wireframes and beyond, providing a robust platform for structuring your digital products effectively.
