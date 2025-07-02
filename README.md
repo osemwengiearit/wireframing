@@ -58,7 +58,41 @@ Content placement focuses on where specific types of content will reside on the 
 Functionality in wireframes refers to the interactive elements and how users will interact with them to achieve a task. While not visually styled, their presence and intended behavior are defined.
 
 - **Contribution to Design:**
+
   - **Defines Interaction Paths:** Shows how users will trigger actions, submit information, or filter content.
   - **Indicates Interactive Behavior:** Helps in outlining the basic user flow and potential system responses (e.g., what happens after clicking a button).
   - **Supports Usability Testing:** Provides a basis for early user testing to evaluate the intuitiveness of interactions.
   - **Example:** A wireframe including placeholder buttons (e.g., "Submit," "Add to Cart"), form fields (e.g., text input for email, dropdown for selection), or interactive sliders/carousels.
+
+## Types of Wireframes
+
+Wireframes can vary significantly in their level of detail and polish, often referred to as their "fidelity." The choice between low-fidelity and high-fidelity wireframes depends on the stage of the design process, the goals of the wireframe, and the audience it's intended for.
+
+### Low-Fidelity Wireframes
+
+- **Definition:** These are the most basic and abstract representations of a website or application. They are typically sketched quickly using pen and paper or simple digital tools, often in black and white or grayscale. They focus purely on structure, hierarchy, and basic content placement, omitting any visual design elements like colors, images, or specific fonts.
+- **Characteristics:**
+  - Rough and unpolished.
+  - Minimal detail.
+  - Uses placeholder text (e.g., "Lorem Ipsum") and simple shapes for elements.
+  - No interactive elements (or very rudimentary ones).
+- **When Used:**
+  - **Early Stages of Design:** Ideal for brainstorming, exploring broad concepts, and quickly iterating on initial ideas.
+  - **Internal Discussions:** Great for internal team discussions and initial stakeholder alignment.
+  - **Concept Validation:** Used to quickly test user flows and information architecture without committing to visual design.
+  - **Benefits:** Extremely fast and inexpensive to create and modify, encourages open feedback without attachment to aesthetics.
+
+### High-Fidelity Wireframes
+
+- **Definition:** These are much more detailed and refined versions of a wireframe, closely resembling the final user interface. While still focusing on structure and functionality, they incorporate more specific content, accurate sizing, and often elements of visual design like specific typography, iconography, and even basic color schemes. They might also include basic interactive elements.
+- **Characteristics:**
+  - More polished and precise.
+  - Includes specific content, actual text, and realistic image placeholders.
+  - Accurate sizing and spacing of elements.
+  - May show some interactive states or basic animations.
+- **When Used:**
+  - **Later Stages of Design:** Used after core concepts are validated to refine layouts and prepare for visual design or development.
+  - **User Testing:** More effective for usability testing, as they provide a more realistic experience for participants.
+  - **Developer Handoff:** Provides clear specifications to developers, reducing ambiguity.
+  - **Final Stakeholder Review:** Used for detailed reviews with stakeholders who may struggle to visualize from low-fidelity versions.
+  - **Benefits:** Provides a clearer vision of the final product, reduces misinterpretations during development.
